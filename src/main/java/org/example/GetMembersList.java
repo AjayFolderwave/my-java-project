@@ -20,7 +20,7 @@ public class GetMembersList {
 
     private static final String API_URL = "https://apipartner24.commonapp.org/datacatalog/colleges";
     private static final String API_KEY = "KmzYqqm17d73pdemUGeSi2w0go34IqWb9RHfgEo0";
-    private static final String JDBC_URL = "jdbc:sqlserver://10.0.49.8:1433;databaseName=MEFA_THRDPTY;integratedSecurity=true;encrypt=true;trustServerCertificate=true";
+    private static final String JDBC_URL = "jdbc:sqlserver://10.0.4.7:1433;databaseName=MEFA_THRDPTY;integratedSecurity=true;encrypt=true;trustServerCertificate=true";
   //  private static final String JDBC_URL = "jdbc:sqlserver://localhost:1433;databaseName=MEFA_THRDPTY_TEST;integratedSecurity=true;encrypt=true;trustServerCertificate=true";
 
     private static final int PROGRAM_ID = 7; // Common App Program ID
